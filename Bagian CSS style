@@ -1,0 +1,49 @@
+
+body {
+   background-image: url('https://img.freepik.com/foto-premium/wallpaper-gambar-estetik_1134901-183854.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    font-family: 'Dancing script', cursive;
+    font-size: 28px;
+}
+h2 {
+    color: #e4e4eb; 
+    margin-bottom: 0px;
+    text-align: center;
+}
+p {
+    color: white;
+    margin-top: 5px;
+}
+p {
+    max-width: 600px;
+    margin: auto;
+    text-align: justify;
+}
+h3 {
+    color: #e7eaee; 
+    margin-bottom: 20px;
+    text-align: justify;
+}
+ol {
+    color: white;
+    padding-left: 30px;
+}
+ol li::marker {
+    color: #f8f3f3;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text {
+    width: 70%;
+}
+
+img {
+    margin-left: 20px;
+}
