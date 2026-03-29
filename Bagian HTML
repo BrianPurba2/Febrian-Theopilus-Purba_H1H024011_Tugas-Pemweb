@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+    <link rel="stylesheet" href="Style CSS.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+    <body>
+        <h2>Welcome To My Profile</h2>
+        <div class="container">
+        <p>Halo nama saya adalah Febrian Theopilus Purba,saya adalah orang yang sangat suka dengan alam.
+            Jadi hal yang paling saya suka adalah berladang,di ladang juga saya mengurus banyak tanaman.
+            Saya berasal dari Berastagi,Karo,Sumatera utara.Saya adalah suku Karo yang merupakan suku yang
+            sangat berbeda dari suku lainnya,mulai dari budaya rumah adat dan yang lainnya.
+        </p>
+        <img src="Brian Purba.jpeg" alt="Fotoku" height="450" width="400">
+        </div>
+        <h3>Saya memiliki beberapa hobi sebagai berikut</h3>
+        <ol>
+            <li>Berladang</li>
+            <li>Berolahraga</li>
+            <li>Memasak</li>
+        </ol>
+    
+    </body>
+</html>
